@@ -1,5 +1,3 @@
-## Hi there 👋
-Firm believer of the "right tool for the right job" mentality; adopting new languages as required.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zebdelrosario&theme=dark&show_icons=true&rank_icon=github" />
 </a>
