@@ -1,10 +1,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zebdelrosario&show_icons=true&rank_icon=github&hide_border=true&hide_rank=true&theme=dark#gh-dark-mode-only" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zebdelrosario&show_icons=true&rank_icon=github&hide_border=true&hide_rank=true&theme=default#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zebdelrosario&show_icons=true&rank_icon=github&hide_border=true&hide_rank=true&theme=dark"
+    media="(prefers-color-scheme: dark)"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zebdelrosario&show_icons=true&rank_icon=github&hide_border=true&hide_rank=true&theme=default" 
+    media="(prefers-color-scheme: light)"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zebdelrosario&layout=compact&langs_count=8&card_width=320&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zebdelrosario&layout=compact&langs_count=8&card_width=320&show_icons=true&hide_border=true&&theme=default#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zebdelrosario&layout=compact&langs_count=8&card_width=320&show_icons=true&hide_border=true&theme=dark" 
+    media="(prefers-color-scheme: dark)"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zebdelrosario&layout=compact&langs_count=8&card_width=320&show_icons=true&hide_border=true&&theme=default" 
+    media="(prefers-color-scheme: light)"/>
 </a>
 <!--
 **zebdelrosario/zebdelrosario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
